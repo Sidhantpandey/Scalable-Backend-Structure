@@ -1,4 +1,4 @@
-# Scalable Backend Structure 🚀
+# Scalable Backend Structure 
 
 This repository provides a scalable and modular Node.js backend architecture. It is designed for maintainability, readability, and separation of concerns — making it suitable for small projects as well as large-scale applications.
 
@@ -19,7 +19,7 @@ This repository provides a scalable and modular Node.js backend architecture. It
 - **utils/**: Generic reusable functions (e.g., date formatters, token generators)
 - **workers/**: Async background tasks like queues, schedulers, etc.
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - **Node.js** with **Express**
 - **Sequelize** or other ORM (optional)
